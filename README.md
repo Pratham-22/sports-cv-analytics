@@ -4,7 +4,6 @@ Extensions on [roboflow/sports](https://github.com/roboflow/sports): export pitc
 
 ![Demo: shape snapshot, occupancy heatmap, line-height timeline](docs/images/demo.gif)
 
-> **Repo topics** (add in GitHub Settings): `roboflow`, `computer-vision`, `football-analytics`, `soccer`, `supervision`, `sports-analytics`
 
 ---
 
