@@ -23,6 +23,10 @@ outputs/*
 !outputs/2e57b9_0_shape/**
 !outputs/2e57b9_0_frames.jsonl
 
+# README assets (committed)
+!docs/images/
+!docs/images/**
+
 # OS / editor
 .DS_Store
 .idea/
