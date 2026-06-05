@@ -3,7 +3,7 @@
 Extensions on [roboflow/sports](https://github.com/roboflow/sports): export pitch tracking once, then run **occupancy heatmaps** and **team shape** analytics offline (defensive line, width, compactness).
 
 ![Heatmap Demo](heatmap_demo.gif)
-![Demo: shape snapshot, occupancy heatmap, line-height timeline](docs/images/demo.gif)
+![Demo: shape snapshot, occupancy heatmap, line-height timeline](docs/images/demo1.gif)
 
 
 
