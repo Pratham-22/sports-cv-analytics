@@ -113,21 +113,3 @@ sports-cv-analytics/
 ```
 
 ---
-
-## Limitations
-
-Short broadcast clips; jersey-based `team_id`; homography jitter; deepest-player line proxy (not a 4-man offside line). State these when sharing results.
-
-## Upstream PRs (later)
-
-See [docs/UPSTREAM_PATCHES.md](docs/UPSTREAM_PATCHES.md) for planned contributions to [roboflow/sports](https://github.com/roboflow/sports).
-
----
-
-## Replace the demo GIF
-
-Record ~15 s of heatmap video or RADAR (`main.py --mode RADAR`) and overwrite:
-
-`docs/images/demo.gif`
-
-GitHub renders it inline at the top of this README.
