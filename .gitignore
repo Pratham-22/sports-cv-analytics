@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Upstream clone (install per README; avoid nested repo in commits)
+roboflow-sports/
+
+# Heavy assets
+data/
+previews/
+*.pt
+*.mp4
+*.avi
+
+# Generated outputs (keep docs + sample results for portfolio)
+outputs/*
+!outputs/README.md
+!outputs/2e57b9_0_shape/
+!outputs/2e57b9_0_shape/**
+!outputs/2e57b9_0_frames.jsonl
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets
+.env
+*.key

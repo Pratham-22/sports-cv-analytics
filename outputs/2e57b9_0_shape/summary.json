@@ -1,0 +1,30 @@
+{
+  "source": "outputs/2e57b9_0_frames.jsonl",
+  "fps": 25.0,
+  "frames_analyzed": 747,
+  "defending_sides": {
+    "0": "left",
+    "1": "right"
+  },
+  "summary": [
+    {
+      "team_id": 0,
+      "defends": "left",
+      "mean_line_height_m": 34.24,
+      "mean_width_m": 42.43,
+      "mean_compactness_m2": 1191.4,
+      "std_line_height_m": 12.92,
+      "std_width_m": 8.55
+    },
+    {
+      "team_id": 1,
+      "defends": "right",
+      "mean_line_height_m": 21.08,
+      "mean_width_m": 43.85,
+      "mean_compactness_m2": 1638.7,
+      "std_line_height_m": 11.28,
+      "std_width_m": 8.39
+    }
+  ],
+  "notes": "Line height = distance of deepest outfield player from own goal (m). Lower median-x team defends left goal (x=0)."
+}
