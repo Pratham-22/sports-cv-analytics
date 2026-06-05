@@ -1,4 +1,4 @@
-# Sports CV — Roboflow soccer analytics
+# Football Tactical Analytics — extending roboflow/sports
 
 Extensions on [roboflow/sports](https://github.com/roboflow/sports): export pitch tracking once, then run **occupancy heatmaps** and **team shape** analytics offline (defensive line, width, compactness).
 
